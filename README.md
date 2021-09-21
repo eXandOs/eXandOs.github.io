@@ -1,6 +1,6 @@
 # eXandOs
 
-![](Icon-256.png){:height="200px" width="200px"}
+![](eXandOs App Logo Cornerradius.png){:height="200px" width="200px"}
 ###### iOS App
 
 
