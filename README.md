@@ -1,6 +1,6 @@
 # eXandOs
 
-![](App Icon Border.png){:height="200px" width="200px"}
+![](Icon-256.png){:height="200px" width="200px"}
 ###### iOS App
 
 
