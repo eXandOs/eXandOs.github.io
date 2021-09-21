@@ -39,3 +39,5 @@ Greetings,
 
 **Giordano Menegazzi**
 
+![](app-ads.txt)
+
